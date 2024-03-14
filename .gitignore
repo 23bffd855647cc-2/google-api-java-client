@@ -28,3 +28,5 @@ nosetests.xml
 
 # Python utilities
 *.pyc
+google-api-client-java6/pom.xml
+google-api-client-java6/src/main/java/com/google/api/client/googleapis/extensions/java6/auth/oauth2/GooglePromptReceiver.java
